@@ -206,7 +206,7 @@ html, body {
 /**** Base ****/
 
 body {
-  background: #D03;
+  background: #8b008b;
   font-family: 'Hero Light', 'Helvetica Neue', Arial, sans-serif;
   color: #223;
   min-width: 1000px;
@@ -632,7 +632,7 @@ a:hover {
 
 #content #featuring h1 {
   margin-top: 24px;
-  font-size: 161px;
+  font-size: 118x;
   line-height: 0.9em;
 }
 
@@ -640,7 +640,7 @@ a:hover {
   width: 310px;
   margin: 0 10px;
   position: absolute;
-  top: 170px;
+  top: 140px;
   height: 360px;
   border-bottom: 10px solid;
 }
@@ -657,7 +657,7 @@ a:hover {
   text-transform: uppercase;
   border-top: 10px solid;
   border-bottom: 10px solid;
-  font-size: 88px;
+  font-size: 40px;
   line-height: 0.9em;
 }
 

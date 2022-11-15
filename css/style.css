@@ -441,6 +441,11 @@ a:hover {
 /***************** Intro *****************/
 
 #intro {
+  border: 5px solid #DCDCDC;
+  padding: 7px;
+	/* border-radius: 100%; */
+	height: auto;
+	width: auto;
 }
 
 #content #intro h1 {
@@ -616,6 +621,14 @@ a:hover {
 #credit a:hover { background-color: white;}
 
 /***************** Featuring *****************/
+
+#featuring {
+  border: 5px solid #DCDCDC;
+  padding: 7px;
+	/* border-radius: 100%; */
+	height: auto;
+	width: auto;
+}
 
 #content #featuring h1 {
   margin-top: 24px;

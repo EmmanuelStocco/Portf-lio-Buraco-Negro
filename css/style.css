@@ -206,7 +206,7 @@ html, body {
 /**** Base ****/
 
 body {
-  background: #F61;
+  background: #D03;
   font-family: 'Hero Light', 'Helvetica Neue', Arial, sans-serif;
   color: #223;
   min-width: 1000px;
@@ -531,7 +531,7 @@ a:hover {
 }
 
 #intro time .time {
-  font-size: 32px;
+  font-size: 25px;
   line-height: 1.6em;
   letter-spacing: 0.05em;
 }
@@ -556,11 +556,11 @@ a:hover {
 }
 
 #intro .location a p {
-  background: white;
+  background: transparent;
   color: #223;
   width: 96%;
   margin: 0 auto;
-  color: #DD0;
+  color: #DCD;
   font-size: 32px;
   text-transform: uppercase;
   margin-bottom: 4px;

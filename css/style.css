@@ -1041,6 +1041,10 @@ a:hover {
   margin-bottom: 0.8em;
 }
 
+#flip-cup {
+  border: 5px solid #DCDCDC;
+}
+
 /***************** Team sign up *****************/
 
 #sign-up .h1 {
@@ -1080,6 +1084,9 @@ a:hover {
 
 
 /***************** Teams  *****************/
+#teams {
+  border: 5px solid #DCDCDC;
+}
 
 #content #teams h1 {
   position: relative;
@@ -1178,6 +1185,7 @@ a:hover {
 
 #limbo {
   text-align: center;
+  border: 5px solid #DCDCDC;
 }
 
 #totem {

@@ -683,9 +683,9 @@ a:hover {
   display: block;
 }
 
-#featuring .feature p strong span.victory { font-size: 72px; }
+#featuring .feature p strong span.victory { font-size: 72px; margin-bottom: 12px; margin-top: 8px;}
 #featuring .feature p strong span.brewing { font-size: 63px; }
-#featuring .feature p strong span.company { font-size: 62px; }
+#featuring .feature p strong span.company { font-size: 32px; }
 
 #featuring .music {
   right: 0;
@@ -702,7 +702,7 @@ a:hover {
 #featuring .music p .artist { font-size: 42px; }
 #featuring .music p .link { font-size: 20px; }
 
-#featuring .music p .richard-gear .artist { font-size: 34px; }
+#featuring .music p .richard-gear .artist { font-size: 27px; }
 #featuring .music p .richard-gear .link { font-size: 19px; }
 
 #featuring .links {
@@ -717,6 +717,9 @@ a:hover {
   font-family: 'Hero', 'Helvetica Neue', Arial, sans-serif;
   font-size: 16px;
   text-align: center;
+  background-image: url("https://t2.tudocdn.net/510706?w=646&h=284");
+  background-size: 106px 53px;
+  opacity: 0.6;
 }
 
 #featuring .links a {
@@ -811,6 +814,10 @@ a:hover {
 }
 
 #sponsorz .spnsr-list li.half { width: 145px; }
+
+#sponsorz {
+  border: 5px solid #DCDCDC;
+}
 
 #sponsorz .spnsr-list li.n2 { left: 330px; }
 #sponsorz .spnsr-list li.n5 { left: 165px; }

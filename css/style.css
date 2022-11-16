@@ -206,7 +206,7 @@ html, body {
 /**** Base ****/
 
 body {
-  background: #8b008b;
+  background: mediumseagreen;
   font-family: 'Hero Light', 'Helvetica Neue', Arial, sans-serif;
   color: #223;
   min-width: 1000px;
@@ -683,9 +683,9 @@ a:hover {
   display: block;
 }
 
-#featuring .feature p strong span.victory { font-size: 72px; margin-bottom: 12px; margin-top: 8px;}
+#featuring .feature p strong span.victory { font-size: 54px; margin-bottom: 12px; margin-top: 8px;}
 #featuring .feature p strong span.brewing { font-size: 63px; }
-#featuring .feature p strong span.company { font-size: 32px; }
+#featuring .feature p strong span.company { font-size: 30px; }
 
 #featuring .music {
   right: 0;
@@ -720,6 +720,10 @@ a:hover {
   background-image: url("https://t2.tudocdn.net/510706?w=646&h=284");
   background-size: 106px 53px;
   opacity: 0.6;
+}
+
+#link-text {
+
 }
 
 #featuring .links a {

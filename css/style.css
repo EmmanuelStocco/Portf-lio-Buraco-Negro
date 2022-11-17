@@ -906,7 +906,7 @@ a:hover {
 /***************** Flip Cup  *****************/
 
 #content #flip-cup h1 {
-  font-size: 146px;
+  font-size: 132px;
 }
 
 #flip-cup h1 .tournament,
@@ -1015,7 +1015,7 @@ a:hover {
 
 #flip-cup .rules li {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Arial, sans-serif;
-  font-size: 12px;
+  font-size: 11px;
   line-height: 1.4em;
   padding: 6px 10px;
   margin-bottom: 2px;

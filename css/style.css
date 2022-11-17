@@ -1185,6 +1185,7 @@ a:hover {
   width: 250px;
   height: 200px;
   border-radius: 12px;
+  cursor: pointer;
 }
 
 #teams .team-list .team .player {

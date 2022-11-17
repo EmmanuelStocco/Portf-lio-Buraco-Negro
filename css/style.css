@@ -505,7 +505,7 @@ a:hover {
 #intro time .day i {
   font-style: normal;
   background: #223;
-  font-size: 0.9em;
+  font-size: 0.8em;
   width: 1.2em;
   height: 1.2em;
   vertical-align: top;
@@ -514,6 +514,7 @@ a:hover {
   text-align: center;
   line-height: 1.3em;
   position: relative;
+  margin-top: 10px;
   top: -0.15em;
   -webkit-border-radius: 0.6em;
      -moz-border-radius: 0.6em;
@@ -712,7 +713,7 @@ a:hover {
   left: 330px;
   margin: 0 10px;
   background: white;
-  height: 40px;
+  height: 57px;
   padding: 5px 0;
   font-family: 'Hero', 'Helvetica Neue', Arial, sans-serif;
   font-size: 16px;
@@ -740,10 +741,10 @@ a:hover {
   position: absolute;
   margin: 0 10px;
   left: 330px;
-  top: 170px;
+  top: 144px;
   line-height: 1.4em;
   text-align: justify;
-  font-size: 13px;
+  font-size: 16px;
 }
 
 #featuring .blurb p {

@@ -1276,6 +1276,10 @@ a:hover {
   height: 40px;
 }
 
+#limbo_div_contacts {
+  background-color: red;
+}
+
 .img_projects {
   width: 250px;
   height: 200px;

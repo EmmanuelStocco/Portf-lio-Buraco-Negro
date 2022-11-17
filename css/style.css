@@ -206,9 +206,9 @@ html, body {
 /**** Base ****/
 
 body {
-  background: mediumseagreen;
+  background: black;
   font-family: 'Hero Light', 'Helvetica Neue', Arial, sans-serif;
-  color: #223;
+  color: #0E9AF1;
   min-width: 1000px;
 }
 

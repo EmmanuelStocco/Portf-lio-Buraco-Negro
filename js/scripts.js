@@ -192,7 +192,7 @@ $(function(){
       $audio.remove();
     }, 4000, $audio );
 
-    $('#intro h1').addClass('beerception').text('Beerception');
+    $('#intro h1').addClass('beerception').text('Emmanuel');
     $('#intro .blurb').text('A party within a dream');
   });
   

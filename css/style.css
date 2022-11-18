@@ -617,7 +617,9 @@ a:hover {
   color: #223; 
   display: block;
   padding-left: 10px;
-  background: url('../img/raio.png') -250px -566px;
+  width: 228px;
+  /* background: url('https://static.wikia.nocookie.net/nerddragon/images/c/cb/Raio.gif/revision/latest?cb=20190103032401&path-prefix=pt-br') -250px -566px; */
+  background-color: black;
 }
 #credit a:hover { background-color: white;}
 

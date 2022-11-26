@@ -279,7 +279,7 @@ a:hover {
           transform-origin: center 450px;
 }
 
-.faux3d #featuring {
+.faux3d #apresentacao {
   -webkit-transform: scale(0.3333);
      -moz-transform: scale(0.3333);
       -ms-transform: scale(0.3333);
@@ -287,7 +287,7 @@ a:hover {
           transform: scale(0.3333);
 }
 
-.faux3d #sponsorz {
+.faux3d #stacks {
   -webkit-transform: scale(0.1111);
      -moz-transform: scale(0.1111);
       -ms-transform: scale(0.1111);
@@ -295,7 +295,7 @@ a:hover {
           transform: scale(0.1111);
 }
 
-.faux3d #flip-cup {
+.faux3d #servicos {
   -webkit-transform: scale(0.037);
      -moz-transform: scale(0.037);
       -ms-transform: scale(0.037);
@@ -303,7 +303,7 @@ a:hover {
           transform: scale(0.037);
 }
 
-.faux3d #teams {
+.faux3d #projetos {
   -webkit-transform: scale(0.01234);
      -moz-transform: scale(0.01234);
       -ms-transform: scale(0.01234);
@@ -346,7 +346,7 @@ a:hover {
           transform-style: preserve-3d;
 }
 
-.csstransforms3d #featuring {
+.csstransforms3d #apresentacao {
   -webkit-transform: translate3d( 0, 0, -1000px );
      -moz-transform: translate3d( 0, 0, -1000px );
       -ms-transform: translate3d( 0, 0, -1000px );
@@ -355,7 +355,7 @@ a:hover {
 }
 
 
-.csstransforms3d #sponsorz {
+.csstransforms3d #stacks {
   -webkit-transform: translate3d( 0, 0, -2000px );
      -moz-transform: translate3d( 0, 0, -2000px );
       -ms-transform: translate3d( 0, 0, -2000px );
@@ -364,7 +364,7 @@ a:hover {
 }
 
 
-.csstransforms3d #flip-cup {
+.csstransforms3d #servicos {
   -webkit-transform: translate3d( 0, 0, -3000px );
      -moz-transform: translate3d( 0, 0, -3000px );
       -ms-transform: translate3d( 0, 0, -3000px );
@@ -372,7 +372,7 @@ a:hover {
           transform: translate3d( 0, 0, -3000px );
 }
 
-.csstransforms3d #teams {
+.csstransforms3d #projetos {
   -webkit-transform: translate3d( 0, 0, -4000px );
      -moz-transform: translate3d( 0, 0, -4000px );
       -ms-transform: translate3d( 0, 0, -4000px );
@@ -623,9 +623,9 @@ a:hover {
 }
 #credit a:hover { background-color: white;}
 
-/***************** Featuring *****************/
+/***************** apresentacao *****************/
 
-#featuring {
+#apresentacao {
   border: 5px solid #DCDCDC;
   padding: 7px;
 	/* border-radius: 100%; */
@@ -633,13 +633,13 @@ a:hover {
 	width: auto;
 }
 
-#content #featuring h1 {
+#content #apresentacao h1 {
   margin-top: 24px;
   font-size: 118x;
   line-height: 0.9em;
 }
 
-#featuring .feature {
+#apresentacao .feature {
   width: 310px;
   margin: 0 10px;
   position: absolute;
@@ -648,13 +648,13 @@ a:hover {
   border-bottom: 10px solid;
 }
 
-#featuring .feature h2,
-#featuring .feature span {
+#apresentacao .feature h2,
+#apresentacao .feature span {
   display: block;
   text-align: center;
 }
 
-#featuring .feature h2 {
+#apresentacao .feature h2 {
   font-weight: normal;
   font-family: 'MOD', 'Helvetica Neue', Arial, sans-serif;
   text-transform: uppercase;
@@ -664,10 +664,10 @@ a:hover {
   line-height: 0.9em;
 }
 
-#featuring .beverages h2 {
+#apresentacao .beverages h2 {
 }
 
-#featuring .provided {
+#apresentacao .provided {
   font-family: 'Hero', 'Helvetica Neue', Arial, sans-serif;
   text-transform: uppercase;
   font-size: 18px;
@@ -676,9 +676,9 @@ a:hover {
   padding-top: 0.4em;
 }
 
-#featuring .feature p strong { display: block; }
+#apresentacao .feature p strong { display: block; }
 
-#featuring .feature p strong span {
+#apresentacao .feature p strong span {
   font-weight: normal;
   font-size: 58px;
   text-transform: uppercase;
@@ -686,29 +686,29 @@ a:hover {
   display: block;
 }
 
-#featuring .feature p strong span.victory { font-size: 54px; margin-bottom: 12px; margin-top: 8px;}
-#featuring .feature p strong span.brewing { font-size: 63px; }
-#featuring .feature p strong span.company { font-size: 30px; }
+#apresentacao .feature p strong span.victory { font-size: 54px; margin-bottom: 12px; margin-top: 8px;}
+#apresentacao .feature p strong span.brewing { font-size: 63px; }
+#apresentacao .feature p strong span.company { font-size: 30px; }
 
-#featuring .music {
+#apresentacao .music {
   right: 0;
 }
 
-#featuring .feature p strong span a {
+#apresentacao .feature p strong span a {
   font-family: 'Hero', 'Helvetica Neue', Arial, sans-serif;
 }
 
-#featuring .music p .artist { border-top: 2px solid; }
+#apresentacao .music p .artist { border-top: 2px solid; }
 
-#featuring .music p strong { padding: 3px 0; }
+#apresentacao .music p strong { padding: 3px 0; }
 
-#featuring .music p .artist { font-size: 42px; }
-#featuring .music p .link { font-size: 20px; }
+#apresentacao .music p .artist { font-size: 42px; }
+#apresentacao .music p .link { font-size: 20px; }
 
-#featuring .music p .richard-gear .artist { font-size: 27px; }
-#featuring .music p .richard-gear .link { font-size: 19px; }
+#apresentacao .music p .richard-gear .artist { font-size: 27px; }
+#apresentacao .music p .richard-gear .link { font-size: 19px; }
 
-#featuring .links {
+#apresentacao .links {
   position: absolute;
   bottom: 0px;
   width: 310px;
@@ -729,15 +729,15 @@ a:hover {
 
 }
 
-#featuring .links a {
+#apresentacao .links a {
   color: #B20;
 }
 
-#featuring .links a:hover {
+#apresentacao .links a:hover {
   background: #DD0;
 }
 
-#featuring .blurb {
+#apresentacao .blurb {
   font-family: 'Hero', 'Helvetica Neue', Arial, sans-serif;
   width: 310px;
   position: absolute;
@@ -749,11 +749,11 @@ a:hover {
   font-size: 16px;
 }
 
-#featuring .blurb p {
+#apresentacao .blurb p {
   margin-bottom: 10px;
 }
 
-#featuring .blurb .badge {
+#apresentacao .blurb .badge {
   font-size: 20px; 
   text-align: center;
   line-height: 32px;
@@ -772,13 +772,13 @@ a:hover {
 
 /***************** Sponsors  *****************/
 
-#content #sponsorz h1 {
+#content #stacks h1 {
   font-size: 120px;
   line-height: 0.8em;
   margin-top: 27px;
 }
 
-#sponsorz .blurb {
+#stacks .blurb {
   position: absolute;
   width: 100%;
   bottom: 0;
@@ -787,32 +787,32 @@ a:hover {
   text-align: center;
 }
 
-#sponsorz .blurb strong {
+#stacks .blurb strong {
   font-weight: normal;
   font-family: 'Hero', 'Helvetica Neue', Arial, sans-serif;
 }
 
-#sponsorz .blurb a {
+#stacks .blurb a {
   background: white;
   color: #DD0;
   padding: 0.1em 0.3em;
   font-family: 'Hero', 'Helvetica Neue', Arial, sans-serif;
 }
 
-#sponsorz .blurb a:hover {
+#stacks .blurb a:hover {
   background: #B20;
 }
 
 /* Sponsor list */
 
-#sponsorz .spnsr-list {
+#stacks .spnsr-list {
   list-style: none;
   margin: 0;
   position: absolute;
   top: 120px;
 }
 
-#sponsorz .spnsr-list li {
+#stacks .spnsr-list li {
   position: absolute;
   width: 310px;
   height: 100px;
@@ -820,48 +820,48 @@ a:hover {
   text-align: center;
 }
 
-#sponsorz .spnsr-list li.half { width: 145px; }
+#stacks .spnsr-list li.half { width: 145px; }
 
-#sponsorz {
+#stacks {
   border: 5px solid #DCDCDC;
 }
 
-#sponsorz .spnsr-list li.n2 { left: 330px; }
-#sponsorz .spnsr-list li.n5 { left: 165px; }
-#sponsorz .spnsr-list li.n7,
-#sponsorz .spnsr-list li.n10 { left: 825px; }
-#sponsorz .spnsr-list li.n3,
-#sponsorz .spnsr-list li.n6,
-#sponsorz .spnsr-list li.n9 { left: 660px; }
-#sponsorz .spnsr-list li.n4,
-#sponsorz .spnsr-list li.n5,
-#sponsorz .spnsr-list li.n6,
-#sponsorz .spnsr-list li.n7 { top: 120px; }
-#sponsorz .spnsr-list li.n8,
-#sponsorz .spnsr-list li.n9,
-#sponsorz .spnsr-list li.n10 { top: 240px; }
+#stacks .spnsr-list li.n2 { left: 330px; }
+#stacks .spnsr-list li.n5 { left: 165px; }
+#stacks .spnsr-list li.n7,
+#stacks .spnsr-list li.n10 { left: 825px; }
+#stacks .spnsr-list li.n3,
+#stacks .spnsr-list li.n6,
+#stacks .spnsr-list li.n9 { left: 660px; }
+#stacks .spnsr-list li.n4,
+#stacks .spnsr-list li.n5,
+#stacks .spnsr-list li.n6,
+#stacks .spnsr-list li.n7 { top: 120px; }
+#stacks .spnsr-list li.n8,
+#stacks .spnsr-list li.n9,
+#stacks .spnsr-list li.n10 { top: 240px; }
 
-#sponsorz .spnsr-list li a {
+#stacks .spnsr-list li a {
   background-image: url('../img/sponsors.png');
   height: 100%;
   display: block;
 }
 
-#sponsorz .spnsr-list li a:hover { background-color: white; }
+#stacks .spnsr-list li a:hover { background-color: white; }
 
-#sponsorz .victory       { background-position: 0      0; }
-#sponsorz .nclud         { background-position: 0 -100px; }
-#sponsorz .pruf          { background-position: 0 -200px; }
-#sponsorz .browser-media { background-position: 0 -300px; }
+#stacks .victory       { background-position: 0      0; }
+#stacks .nclud         { background-position: 0 -100px; }
+#stacks .pruf          { background-position: 0 -200px; }
+#stacks .browser-media { background-position: 0 -300px; }
 
-#sponsorz .hanerino      { background-position:   -5px -400px; }
-#sponsorz .argyle        { background-position: -160px -400px; }
-#sponsorz .bold          { background-position:   -8px -600px; }
-#sponsorz .howaboutwe    { background-position: -160px -600px; }
-#sponsorz .function      { background-position:   -5px -700px; }
-#sponsorz .hashrocket    { background-position: -164px -700px; }
+#stacks .hanerino      { background-position:   -5px -400px; }
+#stacks .argyle        { background-position: -160px -400px; }
+#stacks .bold          { background-position:   -8px -600px; }
+#stacks .howaboutwe    { background-position: -160px -600px; }
+#stacks .function      { background-position:   -5px -700px; }
+#stacks .hashrocket    { background-position: -164px -700px; }
 
-#sponsorz .spnsr-list li.open {
+#stacks .spnsr-list li.open {
   font-size: 18px;
   text-transform: uppercase;
   line-height: 100px;
@@ -872,7 +872,7 @@ a:hover {
 
 /* fontfabric link */
 
-#sponsorz .fontfabric {
+#stacks .fontfabric {
   width: 310px;
   height: 40px;
   margin: 10px;
@@ -885,20 +885,20 @@ a:hover {
   text-transform: uppercase;
 }
 
-#sponsorz .fontfabric b { 
+#stacks .fontfabric b { 
   font-family: 'Hero', 'Helvetica Neue', Arial, sans-serif;
   font-weight: normal;
   font-size: 26px;
   text-transform: none;
 }
 
-#sponsorz .fontfabric a {
+#stacks .fontfabric a {
   display: block;
   background: white;
   color: #223;
 }
 
-#sponsorz .fontfabric a:hover {
+#stacks .fontfabric a:hover {
   background: #B20;
   color: #DD0;
 }
@@ -907,24 +907,24 @@ a:hover {
 
 /***************** Flip Cup  *****************/
 
-#content #flip-cup h1 {
+#content #servicos h1 {
   font-size: 132px;
 }
 
-#flip-cup h1 .tournament,
-#teams    h1 .tournament {
+#servicos h1 .tournament,
+#projetos    h1 .tournament {
   display: inline-block;
   font-size: 69px;
   line-height: 0.8em;
 }
 
-#flip-cup h1 .tournament span,
-#teams    h1 .tournament span {
+#servicos h1 .tournament span,
+#projetos    h1 .tournament span {
   display: block;
 }
 
 
-#flip-cup .arrow {
+#servicos .arrow {
   position: absolute;
   
   font-size: 60px;
@@ -933,7 +933,7 @@ a:hover {
   top: 150px;
 }
 
-#flip-cup .arrow a {
+#servicos .arrow a {
   display: block;
   background: white;
   color: #DD0;
@@ -944,16 +944,16 @@ a:hover {
   font-family: 'Hero', 'Helvetica Neue', Arial, sans-serif;
 }
 
-#flip-cup .arrow a span {
+#servicos .arrow a span {
   z-index: 2;
   position: relative;
 }
 
-#flip-cup .arrow a .sign-up {
+#servicos .arrow a .sign-up {
   font-size: 40px;
 }
 
-#flip-cup .arrow a:after {
+#servicos .arrow a:after {
   content: '';
   display: block;
   border-style: solid;
@@ -965,16 +965,16 @@ a:hover {
   z-index: 1;
 }
 
-#flip-cup .arrow a:hover {
+#servicos .arrow a:hover {
   background: #B20;
 }
 
-#flip-cup .arrow a:hover:after {
+#servicos .arrow a:hover:after {
   border-color: #B20 transparent;
 }
 
 
-#flip-cup .rules-title {
+#servicos .rules-title {
   font-weight: normal;
   font-family: 'MOD', 'Helvetica Neue', Arial, sans-serif;
   text-transform: uppercase;
@@ -990,7 +990,7 @@ a:hover {
   left: 340px;
 }
 
-#flip-cup .rules-title:after {
+#servicos .rules-title:after {
   content: '';
   display: block;
   border-style: solid;
@@ -1003,19 +1003,19 @@ a:hover {
 
 
 
-#flip-cup .rules {
+#servicos .rules {
   width: 315px;
   position: absolute;
   top: 150px;
   left: 675px;
 }
 
-#flip-cup .rules ul {
+#servicos .rules ul {
   list-style: none;
   margin: 0;
 }
 
-#flip-cup .rules li {
+#servicos .rules li {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Arial, sans-serif;
   font-size: 11px;
   line-height: 1.4em;
@@ -1025,16 +1025,16 @@ a:hover {
   background: #223;
 }
 
-#flip-cup .rules li:last-child { border-bottom: none; }
+#servicos .rules li:last-child { border-bottom: none; }
 
-#flip-cup .copy {
+#servicos .copy {
   width: 290px;
   position: absolute;
   left: 10px;
   top: 180px;
 }
 
-#flip-cup .copy h3 {
+#servicos .copy h3 {
   font-family: 'Hero', 'Helvetica Neue', Arial, sans-serif;
   text-transform: uppercase;
   font-weight: normal;
@@ -1043,12 +1043,12 @@ a:hover {
   margin-bottom: 20px;
 }
 
-#flip-cup .copy p {
+#servicos .copy p {
   font-size: 18px;
   margin-bottom: 0.8em;
 }
 
-#flip-cup {
+#servicos {
   border: 5px solid #DCDCDC;
 }
 
@@ -1090,12 +1090,12 @@ a:hover {
 
 
 
-/***************** Teams  *****************/
-#teams {
+/***************** projetos  *****************/
+#projetos {
   border: 5px solid #DCDCDC;
 }
 
-#content #teams h1 {
+#content #projetos h1 {
   position: relative;
   top: 40px;
   margin-right: auto;
@@ -1105,13 +1105,13 @@ a:hover {
     width: 310px;
 }
 
-#teams h1 span {
+#projetos h1 span {
   display: block !important;
   line-height: 0.8em;
   font-size: 56px !important;
 }
 
-#teams .team-list {
+#projetos .team-list {
   position: absolute;
   top: 30px;
   height: 510px;
@@ -1154,21 +1154,21 @@ a:hover {
 
 
 
-#teams .team-list .team {
+#projetos .team-list .team {
   width: 310px;
   margin: 10px;
   text-align: center;
 }
-#teams .team-list .team-a { 
+#projetos .team-list .team-a { 
   float: left; 
   clear: left; 
 }
-#teams .team-list .team-b { 
+#projetos .team-list .team-b { 
   float: right; 
   clear: right; 
 }
 
-#teams .team-list .team h2 {
+#projetos .team-list .team h2 {
   font-weight: normal;
   font-size: 26px;
   line-height: 1.0em;
@@ -1178,7 +1178,7 @@ a:hover {
   text-transform: uppercase;
 }
 
-#teams .team-list .team .player-list {
+#projetos .team-list .team .player-list {
   list-style: none;
   margin: 0;
 }
@@ -1190,12 +1190,12 @@ a:hover {
   cursor: pointer;
 }
 
-#teams .team-list .team .player {
+#projetos .team-list .team .player {
   font-size: 16px;
   padding: 2px 0;
 }
 
-#teams .team-list .team .player a {
+#projetos .team-list .team .player a {
   font-family: 'Hero', 'Helvetica Neue', Arial, sans-serif;
   font-size: 14px;
 }
